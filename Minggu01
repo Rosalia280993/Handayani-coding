@@ -1,0 +1,7 @@
+#BelajarDong
+Namadepan = "Rosalia"
+Namabelakang = "yana"
+Nama = Namadepan+" "+Namabelakang
+umur = 20
+Hoby = "Berenang"
+print("Biodata  :\n",Nama, "\n",umur, "\n",Hoby)
